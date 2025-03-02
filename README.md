@@ -35,7 +35,7 @@ The application exposes the following API endpoints via `main.py`:
 
 2. **Google News Filtering**
    - **Endpoint:** `/api/google_news_filtering`
-   - **Description:** Filters Google News articles specifically related to Data Science and AI.
+   - **Description:** Filters Google News articles specifically related to Data Science and AI using LLM
 
 3. **Medium Scraper**
    - **Endpoint:** `/api/medium`
